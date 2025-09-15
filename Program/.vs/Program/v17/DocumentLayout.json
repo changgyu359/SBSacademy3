@@ -7,7 +7,21 @@
       "RelativeMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|solutionrelative:Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|solutionrelative:Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6A6A02-32D0-47A0-850A-A6DAD3581328}|..\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40705CDC-7188-4683-9CF0-166010861707}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A8FE0B5-C12D-430F-8478-F930833F1575}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class2th (Class)\\Class2th (Class).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -20,32 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class2th (Class).cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class2th (Class)\\Class2th (Class).cpp",
-              "RelativeDocumentMoniker": "..\\Class2th (Class)\\Class2th (Class).cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class2th (Class)\\Class2th (Class).cpp",
-              "RelativeToolTip": "..\\Class2th (Class)\\Class2th (Class).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Consumable.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.cpp",
+              "RelativeDocumentMoniker": "Consumable.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.cpp",
+              "RelativeToolTip": "Consumable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-11T10:37:32.689Z",
+              "WhenOpened": "2025-09-15T10:37:50.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
-              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Consumable.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.h",
+              "RelativeDocumentMoniker": "Consumable.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.h",
+              "RelativeToolTip": "Consumable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-15T10:28:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class3th (Constructor\u0026Destructor).cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp",
+              "RelativeDocumentMoniker": "..\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp",
+              "RelativeToolTip": "..\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-11T09:13:07.648Z",
+              "WhenOpened": "2025-09-15T10:23:59.92Z",
               "EditorCaption": ""
             },
             {
@@ -56,9 +83,48 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-10T09:13:48.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T09:49:19.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T09:13:07.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class2th (Class).cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class2th (Class)\\Class2th (Class).cpp",
+              "RelativeDocumentMoniker": "..\\Class2th (Class)\\Class2th (Class).cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class2th (Class)\\Class2th (Class).cpp",
+              "RelativeToolTip": "..\\Class2th (Class)\\Class2th (Class).cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T10:37:32.689Z",
               "EditorCaption": ""
             }
           ]
