@@ -1,5 +1,8 @@
 ﻿#include <iostream>
-#include "Monster.h"
+#include<string>
+#include "Slime.h"
+#include "Skeleton.h"
+#include "Golem.h"
 
 using namespace std;
 
@@ -12,21 +15,66 @@ int main()
 
 	// 다형성은 컴파일 시점에 함수와 속성이 결정되는 정적 바인딩을 하지 않고,
 	// 실행 시간에 함수와 속성이 결정될 수 있는 동적 바인딩을 가능하게 함.
+	
+#pragma region 가상 함수
+	// 실행 시간에 상위 클래스에 대한 참조로 하위 클래스에 재정의된 함수를 호출하는 함수.
+
+	Monster* pointer = nullptr;
+
+	int select = 0;
+
+	while (true)
+	{
+		cin >> select;
+
+		switch (select)
+		{
+		case 0:pointer = new Slime;
+			break;
+		case 1:pointer = new Skeleton;
+			break;
+		case 2:pointer = new Golem;
+			break;
+		default: cout << "Exception" << endl;
+			continue;
+		}
+
+		pointer->Describe();
+
+		delete pointer;
+
+		break;
+	}
+
+
+	// 가상 함수의 경우 함수 테이블을 사용하여 호출되는 함수를 실행 시간에 결정하며,
+	// 정적으로 선언된 함수는 가상 함수로 선언할 수 없음.
+
+#pragma endregion
+
+	
+
+
+	//Slime * slime = new Slime();
+
+	//slime->Stat();
+	//slime->Describe();
+
+	//Skeleton skeleton;
+
+	//skeleton.Stat();
+	//skeleton.Describe();
+
+	//Golem golem;
+
+	//golem.Stat();
+	//golem.Describe();
 
 
 #pragma endregion
 
-	Monster Slime;
-
-	Monster Skeleton;
-
-	Monster Golem;
-
-	Slime.stat(50, 1, 1);
-
-	Skeleton.stat(100, 5, 1);
-
-	Golem.stat(250, 10, 5);
+	
+	
 
 	
 

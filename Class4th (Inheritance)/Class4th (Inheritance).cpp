@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 // 사용자 정의 헤더는 쌍따옴표로 가져옴
-#include ".../Program/Potion.h"
+#include "../Program/Potion.h"
 
 using namespace std;
 
