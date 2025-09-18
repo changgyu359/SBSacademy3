@@ -1,8 +1,6 @@
 #include "Skeleton.h"
 
-#include<iostream>
-
-using namespace std;
+#include "stdafx.h"
 
 Skeleton::Skeleton()
 {
@@ -17,4 +15,9 @@ void Skeleton::Describe()
 {
 	Monster::Describe();
 	cout << "Á×Àº ÀÚÀÇ ¿øÇÑ¸¸ÀÌ »À´Ù±Í¿¡ ³²¾Ò´Ù. ±×·¡ºÃÀÚ »À´Ù±Í´Ï ¹«¼­¿ö ÇÏÁö ¸»ÀÚ.\n" << endl;
+}
+
+Skeleton::~Skeleton()
+{
+	cout << "½ºÄÌ·¹Åæ ¼Ò¸ê" << endl;
 }

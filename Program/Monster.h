@@ -13,6 +13,7 @@ public:
 
 	virtual void Describe();
 
+	virtual ~Monster();
 	
 };
 

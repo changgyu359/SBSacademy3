@@ -1,8 +1,5 @@
 #include "Monster.h"
-
-#include<iostream>
-
-using namespace std;
+#include "stdafx.h"
 
 void Monster::Stat()
 {
@@ -15,4 +12,9 @@ void Monster::Stat()
 void Monster::Describe()
 {
 	cout << "설명:";
+}
+
+Monster::~Monster()
+{
+	cout << "몬스터 소멸" << endl;
 }
