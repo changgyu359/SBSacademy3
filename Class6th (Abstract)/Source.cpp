@@ -1,6 +1,6 @@
-﻿#include "stdafx.h"
-#include "Wardrobe.h"
-#include "Cabinet.h"
+﻿#include "../Program/stdafx.h"
+#include "../Program/Wardrobe.h"
+#include "../Program/Cabinet.h"
 
 int main()
 {
@@ -22,6 +22,8 @@ int main()
 		pointer[i]->Interact();
 	}
 
+	delete pointer[0];
+	delete pointer[1];
 
 
 
