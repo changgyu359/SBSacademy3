@@ -1,2 +1,12 @@
 ﻿  Source.cpp
-  Program.vcxproj -> C:\Users\user\Desktop\SBSacademy3\Program\x64\Debug\Program.exe
+C:\Users\user\Desktop\SBSacademy3\Program\Source.cpp(39,23): error C3878: 구문 오류: 예기치 않은 토큰 '['이(가) 'simple-type-specifier' 다음에 있습니다.
+      C:\Users\user\Desktop\SBSacademy3\Program\Source.cpp(39,23):
+      다음 중 하나가 없습니다. '(' '{' ?
+      C:\Users\user\Desktop\SBSacademy3\Program\Source.cpp(39,23):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\user\Desktop\SBSacademy3\Program\Source.cpp(17,7):
+          클래스 템플릿 'Container'을(를) 컴파일하는 동안
+  
+C:\Users\user\Desktop\SBSacademy3\Program\Source.cpp(39,23): error C3878: 구문 오류: 예기치 않은 토큰 '['이(가) 'expression' 다음에 있습니다.
+C:\Users\user\Desktop\SBSacademy3\Program\Source.cpp(39,29): error C2760: 구문 오류: 여기서 ']'은(는) 예상치 못한 오류였습니다. 예상된 오류는 ';'였습니다
+C:\Users\user\Desktop\SBSacademy3\Program\Source.cpp(39,29): error C3878: 구문 오류: 예기치 않은 토큰 ']'이(가) 'expression-statement' 다음에 있습니다.
