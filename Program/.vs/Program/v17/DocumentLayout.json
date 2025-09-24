@@ -3,11 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class7th (Encapsulation)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40705CDC-7188-4683-9CF0-166010861707}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF589AF4-FC6E-447B-8E13-26B33656A891}|..\\Class8th (Template)\\Class8th (Template).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class8th (Template)\\Class8th (Template).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class7th (Encapsulation)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24F3928C-9861-49BB-8381-A3B1DD52D0A7}|..\\Class5th (Polymophism)\\Class5th (Polymophism).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Skeleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,14 +40,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{89AE8D81-F2AD-458C-87FF-50702F634330}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class6th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78F58F1E-47F1-4BF7-B018-5DDC2FA0139E}|..\\Class7th (Encapsulation)\\Class7th (Encapsulation).vcxproj|solutionrelative:Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6A6A02-32D0-47A0-850A-A6DAD3581328}|..\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -55,14 +61,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A8FE0B5-C12D-430F-8478-F930833F1575}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class2th (Class)\\Class2th (Class).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Language.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|solutionrelative:Language.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Language.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|solutionrelative:Language.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01319790-7226-45B9-B2FE-2DD199600C5B}|Program.vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -127,9 +125,6 @@
       "RelativeMoniker": "D:0:0:{24F3928C-9861-49BB-8381-A3B1DD52D0A7}|..\\Class5th (Polymophism)\\Class5th (Polymophism).vcxproj|solutionrelative:Golem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40705CDC-7188-4683-9CF0-166010861707}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB719613-38E8-44AB-A051-64CCBF3CA696}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB719613-38E8-44AB-A051-64CCBF3CA696}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|solutionrelative:Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -141,76 +136,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Class8th (Template).cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class8th (Template)\\Class8th (Template).cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Template)\\Class8th (Template).cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class8th (Template)\\Class8th (Template).cpp",
+              "RelativeToolTip": "..\\Class8th (Template)\\Class8th (Template).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T10:23:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-10T09:13:48.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class5th (Polymophism)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class5th (Polymophism)\\Source.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class5th (Polymophism)\\Source.cpp",
-              "RelativeToolTip": "..\\Class5th (Polymophism)\\Source.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-18T10:23:52.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Monster.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Monster.cpp",
-              "RelativeDocumentMoniker": "Monster.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Monster.cpp",
-              "RelativeToolTip": "Monster.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "Vector2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.cpp",
+              "RelativeDocumentMoniker": "Vector2.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.cpp",
+              "RelativeToolTip": "Vector2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-18T10:25:36.713Z",
+              "WhenOpened": "2025-09-22T10:12:13.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Slime.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Slime.cpp",
-              "RelativeDocumentMoniker": "Slime.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Slime.cpp",
-              "RelativeToolTip": "Slime.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-18T10:25:45.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Skeleton.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Skeleton.h",
-              "RelativeDocumentMoniker": "Skeleton.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Skeleton.h",
-              "RelativeToolTip": "Skeleton.h",
+              "Title": "Vector2.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.h",
+              "RelativeDocumentMoniker": "Vector2.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.h",
+              "RelativeToolTip": "Vector2.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T10:25:51.468Z",
+              "WhenOpened": "2025-09-22T10:12:12.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T09:13:07.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class7th (Encapsulation)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Source.cpp",
@@ -224,6 +219,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Skeleton.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Skeleton.h",
+              "RelativeDocumentMoniker": "Skeleton.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Skeleton.h",
+              "RelativeToolTip": "Skeleton.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-18T10:25:51.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Slime.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Slime.cpp",
+              "RelativeDocumentMoniker": "Slime.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Slime.cpp",
+              "RelativeToolTip": "Slime.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T10:25:45.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Monster.cpp",
+              "RelativeDocumentMoniker": "Monster.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Monster.cpp",
+              "RelativeToolTip": "Monster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T10:25:36.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class5th (Polymophism)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymophism)\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class5th (Polymophism)\\Source.cpp",
+              "RelativeToolTip": "..\\Class5th (Polymophism)\\Source.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T10:23:52.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class6th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Source.cpp",
@@ -231,38 +274,11 @@
               "RelativeToolTip": "..\\Class6th (Abstract)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-19T09:38:20.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T09:38:20.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Vector2.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.h",
-              "RelativeDocumentMoniker": "Vector2.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.h",
-              "RelativeToolTip": "Vector2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-22T10:12:12.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Vector2.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.cpp",
-              "RelativeDocumentMoniker": "Vector2.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Vector2.cpp",
-              "RelativeToolTip": "Vector2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-22T10:12:13.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Class3th (Constructor\u0026Destructor).cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp",
@@ -270,12 +286,11 @@
               "RelativeToolTip": "..\\Class3th (Constructor\u0026Destructor)\\Class3th (Constructor\u0026Destructor).cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T10:23:59.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T10:23:59.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Consumable.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.h",
               "RelativeDocumentMoniker": "Consumable.h",
@@ -283,12 +298,11 @@
               "RelativeToolTip": "Consumable.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-16T10:43:44.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:43:44.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Potion.cpp",
               "RelativeDocumentMoniker": "Potion.cpp",
@@ -296,12 +310,11 @@
               "RelativeToolTip": "Potion.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T10:31:30.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:31:30.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Consumable.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Consumable.cpp",
               "RelativeDocumentMoniker": "Consumable.cpp",
@@ -309,12 +322,11 @@
               "RelativeToolTip": "Consumable.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T10:20:41.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:20:41.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Class4th (Inheritance).cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class4th (Inheritance)\\Class4th (Inheritance).cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Class4th (Inheritance).cpp",
@@ -322,12 +334,11 @@
               "RelativeToolTip": "..\\Class4th (Inheritance)\\Class4th (Inheritance).cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-16T10:03:56.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T10:03:56.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Class2th (Class).cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class2th (Class)\\Class2th (Class).cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Class2th (Class).cpp",
@@ -335,8 +346,7 @@
               "RelativeToolTip": "..\\Class2th (Class)\\Class2th (Class).cpp",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-11T10:37:32.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T10:37:32.689Z"
             },
             {
               "$type": "Document",
@@ -348,21 +358,7 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-18T10:19:02.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Language.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Language.cpp",
-              "RelativeDocumentMoniker": "Language.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Language.cpp",
-              "RelativeToolTip": "Language.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T09:11:01.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T10:19:02.685Z"
             },
             {
               "$type": "Document",
@@ -374,8 +370,7 @@
               "RelativeToolTip": "Cabinet.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-19T09:39:01.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T09:39:01.202Z"
             },
             {
               "$type": "Document",
@@ -387,21 +382,7 @@
               "RelativeToolTip": "Cabinet.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-21T07:57:54.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Language.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Language.h",
-              "RelativeDocumentMoniker": "Language.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Language.h",
-              "RelativeToolTip": "Language.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-23T09:10:41.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T07:57:54.22Z"
             },
             {
               "$type": "Document",
@@ -562,18 +543,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\SBSacademy3\\Class1th (Stream)\\Source.cpp",
-              "RelativeToolTip": "..\\Class1th (Stream)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-11T09:13:07.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
               "Title": "Potion.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\SBSacademy3\\Program\\Potion.h",
               "RelativeDocumentMoniker": "Potion.h",
