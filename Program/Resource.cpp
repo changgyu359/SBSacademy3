@@ -11,9 +11,9 @@ Resource::~Resource()
 	cout << "Destroy Resource" << endl;
 }
 
-void Resource::Share(Resource* name)
+void Resource::Share(shared_ptr<Resource> &name)
 {
-	
+	resource=name;
 }
 
 
